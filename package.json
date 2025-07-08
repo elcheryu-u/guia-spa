@@ -1,0 +1,17 @@
+{
+  "name": "tutoriales-spa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start:hash": "vite hash-routing/.",
+    "start:history": "vite history-api/.",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "vite": "^7.0.2"
+  }
+}
