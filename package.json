@@ -5,6 +5,7 @@
   "scripts": {
     "start:hash": "vite hash-routing/.",
     "start:history": "vite history-api/.",
+    "start:ajax": "vite ajax-spa/.",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
